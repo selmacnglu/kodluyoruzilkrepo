@@ -9,7 +9,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Eğitimi kapsamında açtığım i
 
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
-> git clone https://github.com/selmacnglu/kodluyoruzilkrepo
+'''
+git clone https://github.com/selmacnglu/kodluyoruzilkrepo
+'''
 
 ## Usage
 
@@ -17,9 +19,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-> cd kodluyoruzilkrepo
-
-> code . 
+'''
+cd kodluyoruzilkrepo
+code . 
+'''
 
 
 ## Contributing
